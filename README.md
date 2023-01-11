@@ -1,8 +1,8 @@
 # Binary_ANN_Programming
 
-본 프로젝트의 저작권은 코드스테이츠에 귀속되어 있습니다.
-
 - Codestates Project1 (CP1) - DS track - 0과 1을 분류하는 인공신경망 프로그래밍
+
+본 프로젝트의 저작권은 코드스테이츠에 귀속되어 있습니다.
 
 ![image](https://user-images.githubusercontent.com/109939415/211750802-cef656bb-1a34-4159-acaf-d733c41e41b2.png)
 
