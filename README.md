@@ -1,6 +1,10 @@
 # Binary_ANN_Programming
 
-- Codestates Project1 (CP1) - DS track - 0과 1을 분류하는 인공신경망 프로그래밍
+Codestates Project1 (CP1) - DS track - 0과 1을 분류하는 인공신경망 프로그래밍
+<br>
+<br>
+- 블로그 포스팅 [작성완료] - [링크 바로가기](https://velog.io/@dankj1991/Codestates-Project-CP1-DS-track-ANNBinaryClassification)
+<br>
 
 본 프로젝트의 저작권은 코드스테이츠에 귀속되어 있습니다.
 
